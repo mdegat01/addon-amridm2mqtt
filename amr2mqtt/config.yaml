@@ -1,6 +1,6 @@
 ---
 name: AMR2MQTT
-url: https://github.com/mdegat01/addon-amr2mqtt
+url: https://github.com/Arschoepf/addon-amr2mqtt
 version: dev
 slug: amr2mqtt
 arch:
